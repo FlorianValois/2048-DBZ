@@ -12,7 +12,7 @@
 <meta property="og:url" content="http://www.florian-valois.com/2048dbz/" />
 <meta property="og:title" content="2048 DBZ, affrontes la puissance des supers saiyans" />
 <meta property="og:description" content="2048 DBZ, affrontes la puissance des supers saiyans. Joins les nombres afin d'obtenir le plus puissant des supers guerriers!" />
-<meta property="og:image" content="http://www.florian-valois.com/2048dbz/images/2048dbz_logo.png" />
+<meta property="og:image" content=".../images/2048dbz_logo.png" />
 
   <meta name="HandheldFriendly" content="True">
   <meta name="MobileOptimized" content="320">
